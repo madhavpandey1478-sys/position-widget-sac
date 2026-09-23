@@ -1,7 +1,7 @@
 {
     "id": "com.madhav.positionentry",
-    "version": "1.2.0",
-    "name": "Position Entry",
+    "version": "2.2.0",
+    "name": "Position Manage",
     "description": "Position creation data entry widget",
     "newInstancePrefix": "PositionEntry",
     "vendor": "Madhav Pandey",
