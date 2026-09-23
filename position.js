@@ -11,7 +11,7 @@
 
     template.innerHTML = `
 
-        <link rel="stylesheet" href="https://madhavpandey1478-sys.github.io/positionwidget/Pstyle.css">
+        <link rel="stylesheet" href="https://madhavpandey1478-sys.github.io/position-widget-sac/position.css">
 
 
         <div class="container">
